@@ -1,0 +1,6 @@
+*.app
+*.beam
+*.o
+*.so
+.eunit
+deps
