@@ -8,7 +8,8 @@ Installation
 
 This code was compiled and run under ubuntu. You will need blas and atlas development libraries.
 
-	> sudo apt-get install libatlas-dev libblas-dev
+	> sudo apt-get install rebar gcc liblapack-dev libatlas-dev libatlas-base-dev
+
 
 Then, in the top directory, compile using rebar
 
