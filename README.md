@@ -28,4 +28,7 @@ Only two functions are supported as yet.
 	2>  X = [[7.52, -0.76,  5.13, -4.75,  1.33, -2.40] ,[-1.10,  0.62,  6.62,  8.52,  4.91, -6.77] ,[-7.95,  9.34, -5.66,  5.75, -5.49,  2.34] ,[1.08, -7.10,  0.87,  5.30, -3.52,  3.95]],
 	3>  {{d,D},{u,U},{v,V}}= lapack:svd(X).
 
+License
+-------
 
+This code is freely-available. The license is the same as LAPACK -- the modified BSD license. Credit due to LAPACK's authors. 
